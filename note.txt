@@ -1,1 +1,0 @@
-mid: app.skipcash.swiftapplepay
